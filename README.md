@@ -26,8 +26,7 @@ I enjoy:
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaimegpm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=jaimegpm&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaimegpm/jaime/output/github-snake-dark.svg" />
