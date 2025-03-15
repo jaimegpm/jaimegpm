@@ -11,14 +11,16 @@ I enjoy:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
+## GitHub Stats:
+
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jaimegpm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000">
+        <img src="https://github-readme-stats.vercel.app/api?username=jaimegpm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&title_color=1DA1F2&text_color=FFFFFF&icon_color=1DA1F2&border_radius=10" />
       </td>
       <td style="border: none; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegpm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegpm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=1DA1F2&text_color=FFFFFF&icon_color=1DA1F2&border_radius=10" />
       </td>
     </tr>
   </table>
