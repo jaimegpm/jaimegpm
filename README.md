@@ -1,5 +1,5 @@
 # ✦ About Me:
-Hi! I'm a **backend developer** focused on building robust and scalable web applications using **Java, Spring Boot, JPA/Hibernate**, and **PostgreSQL**. I'm currently working and continuously improving my skills in **clean architecture**, **API design**, and **backend performance**.
+Hi! I'm a **backend developer** passionate about building reliable and scalable systems that solve real-world problems. I enjoy designing clear and maintainable architectures, working with APIs, and constantly learning new ways to improve performance and code quality.
 
 ## ➤ Interested In:
 ![Frontend](https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge&logo=javascript&logoColor=white) 
