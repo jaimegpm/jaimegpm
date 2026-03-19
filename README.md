@@ -1,5 +1,3 @@
-<!-- PROFILE README — jaimegpm -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:0B1220&height=190&section=header&text=Jaimegpm&fontSize=54&fontColor=ffffff&animation=fadeIn"
@@ -9,12 +7,12 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Web Developer</b> · Web Apps · APIs · Clean Architecture
+  <b>Backend Developer</b> · APIs · Web Applications · Clean Architecture
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=760&lines=Java+%2F+Spring+%7C+Node.js+%7C+TypeScript;React+%7C+Next.js+%7C+Astro;DDD+%7C+Event-Driven+%7C+Observability"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript;PostgreSQL+%7C+Oracle+%7C+Docker"
     alt="Typing SVG"
   />
 </p>
@@ -28,8 +26,8 @@
 
 ## About
 
-I build **web products end-to-end**: frontend experiences + backend services.  
-I care about **maintainable architecture**, **performance**, and **production-ready systems**.
+Backend developer focused on building robust APIs and scalable web applications.  
+Experience working with Java and modern frontend technologies, applying clean architecture principles and best practices.
 
 ---
 
@@ -37,7 +35,7 @@ I care about **maintainable architecture**, **performance**, and **production-re
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,nextjs,astro,tailwind,postgres,mysql,redis,docker,kubernetes,terraform,githubactions,prometheus,grafana,elasticsearch,graphql&perline=10&theme=dark"
+    src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,tailwind,postgres,docker,html,css&perline=10&theme=dark"
     alt="Toolbox"
   />
 </p>
@@ -48,20 +46,20 @@ I care about **maintainable architecture**, **performance**, and **production-re
 
 <table>
   <tr>
-    <td><b>Architecture</b></td>
-    <td><code>Clean</code> <code>Hexagonal</code> <code>DDD</code> <code>Event-driven</code></td>
+    <td><b>Backend</b></td>
+    <td><code>Java</code> <code>REST APIs</code> <code>Swagger</code> <code>Postman</code></td>
   </tr>
   <tr>
-    <td><b>Messaging</b></td>
-    <td><code>Kafka</code> <code>RabbitMQ</code></td>
+    <td><b>Frontend</b></td>
+    <td><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code> <code>Tailwind</code></td>
   </tr>
   <tr>
-    <td><b>Observability</b></td>
-    <td><code>Metrics</code> <code>Logs</code> <code>Traces</code> <code>OpenTelemetry</code></td>
+    <td><b>Database</b></td>
+    <td><code>PostgreSQL</code> <code>Oracle</code> <code>SQL</code></td>
   </tr>
   <tr>
-    <td><b>Delivery</b></td>
-    <td><code>CI/CD</code> <code>Terraform</code> <code>Docker</code> <code>Kubernetes</code></td>
+    <td><b>Tools</b></td>
+    <td><code>Docker</code> <code>Git</code> <code>Postman</code></td>
   </tr>
 </table>
 
