@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Backend Developer</b> · APIs · Web Applications · Clean Architecture
+  <b>Full-Stack Developer</b> · React · Java · REST APIs
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 
 ## About
 
-Backend developer focused on building robust APIs and scalable web applications.  
-Experience working with Java and modern frontend technologies, applying clean architecture principles and best practices.
+Full-stack developer building web applications end-to-end, from frontend to backend.
+Experience with Java and React, focused on clean code, well-structured APIs and maintainable systems.
 
 ---
 
